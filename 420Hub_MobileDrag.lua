@@ -1,4 +1,4 @@
--- 420 HUB | Drag FIXED | by yuki
+-- 420 HUB | Drag FIXED | by yuki44)););););£;£;£;£;£;£;££;£;£4£4£4£4£4£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;7;7;£;£;7;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;£;
 
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
